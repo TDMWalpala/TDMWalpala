@@ -1,38 +1,22 @@
- 
-### Hi there 👋 I'm Tharindu. Thanks for visiting my GitHub
-- 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
-- 📚 Working on learning more languages and tools.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:002e85,100:007a85&height=210&section=header&text=Tharindu%20Darshana&desc=Full%20Stack%20Developer&fontSize=30&descAlignY=50&fontAlignY=30&animation=fadeIn&fontColor=fff">
+
+<div width="100%" align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TDMWalpala&layout=compact&langs_count=8&card_width=320&bg_color=0d1117&hide_border=true&text_color=a6c8ff" />
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TDMWalpala&hide_border=true&card_width=400&theme=dark&background=0d1117" />
 
 
-<div align="center">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200">
+</div>
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+<div align='center'>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TDMWalpala&layout=compact&theme=radical)
-![Michelles's GitHub stats](https://github-readme-stats.vercel.app/api?username=TDMWalpala&show_icons=true&theme=radical&hide=issues)
 
-
-<p align="left"> 
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-     <a href="#"><img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png"/></a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
- 
-  
-  
-  
-</p>
-
- 
-## How to reach me::
-<p align="left">
-
-<a href = "https://twitter.com/@TDMWalpala"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
- 
-
-</p>
